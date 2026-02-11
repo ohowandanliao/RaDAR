@@ -1,6 +1,6 @@
 # RaDAR
 
-RaDAR: relation-aware diffusion and asymmetric contrastive learning for recommendation on user-item graphs.
+RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation.
 
 ## Origin
 This repository is based on AdaGCL (HKUDS): https://github.com/HKUDS/AdaGCL
